@@ -2,10 +2,10 @@
 
 SQL analysis of ~100K orders from a Brazilian e-commerce marketplace (Olist), covering revenue trends, delivery performance, customer retention and segmentation.
 
-**Tools:** SQL (SQLite), DB Browser for SQLite
-**Skills shown:** joins across 8 tables, CTEs, window functions (`LAG`, `RANK`, `NTILE`, running `SUM`), cohort analysis, RFM segmentation, data cleaning
-**Data:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
-**Period covered:** Oct 2016 to Aug 2018
+- **Tools:** SQL (SQLite), DB Browser for SQLite
+- **Skills shown:** joins across 8 tables, CTEs, window functions (`LAG`, `RANK`, `NTILE`, running `SUM`), cohort analysis, RFM segmentation, data cleaning
+- **Data:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
+- **Period covered:** Oct 2016 to Aug 2018
 
 ## Database schema
 
